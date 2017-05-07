@@ -1,0 +1,54 @@
+1.	Pyromaniac with horrible sense of directions, that blows up blocks to propel himself upwards or dig a tunnel to get to his laboratory
+2.	Roomba vs. dust bunnies - bit like Luige Mansion style
+3.	Search island to feed animal unique and strange fruits to evolve the creatures (harvest moon style)
+4.	Fight through obstacle course with ball that teleports you or pushes off objects
+5.	Multiplayer tile based game with goal of blowing each other up with nothing but traps. Platforms gradually gets smaller forcing players to fight for space. 
+6.	Fruit stacking game, point is awarded by how fast and how height the fruits have been stacked up.
+7.	Play as god, place buildings, street lights and random objects in a line, like a domino, and see it everything you built fall.
+8.	Use a gravity pulling gun to pull colorful flying orbs (that are floating around the sky) for upgrades and to make a colorful collection.
+9.	Modern ninja gets hired at a restaurant, use your ninja skills to cut vegetables and throw a meal together with high acrobatics.
+10.	Control a tornado to destroy towns and cities. Sharks are valid pickup object to throw at cities. 
+11.	Shape shifting raccoon that needs to get by the town without being spotted.
+12.	Play as Thomas Edison that is out to find the right material to use as filament for his light bulb experiment. "Let there be light!"
+13.	You have a map telling you where to go but you don't know where you are in reference to the map. Search for clues to find your way out of the tunnel.
+14.	Toy story, play as the piggy bank out to steal money from various rooms
+15.	Squirrel bullied by other squirrels is out on a revenge to kill them all using whatever means.
+16.	Making food with random food ingredients and wow the judges.
+17.	Ninja vs. army of undying snowman.
+18.	Multiplayer game, where opposing player picks a random object, and your job is to place that object on your game character without having him fall or drop anything.
+19.	Deep sea diver exploring the ocean trenches (Hadalpelagic Zone) and fighting off sea creatures with blinding light.
+20.	Simulation game, where you are a barber and client brings in a picture of the desired haircut. Use the wonky controls to give him a "good" haircut.
+21.     Game where a robot reads you a description of the creature, and you must draw and match that creature as close as possible.
+22.     Team bomb defusal game, where one player holds the bomb and other reads a set of instruction of cut the proper wires. Only the person holding the bomb will die.
+23.     Kill the insect game. Bit like fruit ninja but with insects and with newspaper.
+24.     Small man, hitchhiking giants and exploring where these giants live.
+25.     Worm loaded with missiles to take down a bird that ate his family.
+26.     Game where folk lore takes a drastically different turn, example red riding hood with a gun.
+27.     Hero that saves the city by using nothing but a shield. Deflecting projectiles, and cover others from explosions.
+28.     Multiplayer game where 3 players, each with unique abilities, must work together to hide from robots that are out to kill them. Robots can be killed but will never stop coming, thus running and hiding is the only option.
+29.     A killer with ability of mind control. Goal of the game is to make murders look like accidents.
+30.     Raise a horde of golems from the Earth core and move up the Earth's layer defeating creatures that are unique to that environment.
+31.     Detective story, where a cop loses his mind after a run in with a criminal. He must found out what happened and try to catch him.
+32.     Story takes place in the trenches of WWII, where you are a platoon leader having to keep your men from dying from enemy fire and going hungry or insane.
+33.     Young orphan running away from abusive orphanage to find a place for himself. Goal is keeping yourself alive and finding a shelter.
+34.     Find your way back home with a robot that tells lies 25% of the time. Goal is to "understand" the robot’s behavior and see through his lies to get home safely.
+35.     Treasure hunter out to find hats that are imbued with special powers. You can sacrifice multiple hats to create one new hat. Goal is to collect all the hats.
+36.     Multiplayer game where words become objects which can use to battle.
+37.     Creatures of the night, that fear the light, are breaking the light bulbs that are around your town. Goal is to keep them lit to stop them from invading the town.
+38.     Futuristic utopian society with a wall that protects the land. No one has seen the outside for hundreds of years. You play as a high-ranking soldier finding out that wall really is not there to keep the city protected but to 
+        trap the people in. Your job is to choose between living a lie or fighting the system and trying to free the people.
+39.     You’re an alien creature taken from your home planet having to fight in a gladiator arena run by a lunatic taxidermist.
+40.     Multiplayer shooting game, where the body part that was hit gets bigger, multiple hits to the same area makes the player explodes with confetti.
+41.     You are a blacksmith in the medieval times, create weapons and armors best suited for each mission. The more men return home after each war the more money you receive. Keep the men alive and keep the business alive.
+42.     Robot with nothing but a head, rolling around to attach various robot body parts. Bit like Katamari game but with emphasis on deciding when and which part should you pick up 1st as order matters.
+43.     Futuristic utopian city where the robots provide for human basic needs. When program malfunction shuts down all the robots, people are left in panic and food shortages start driving people insane. You manage to escape the city in time, but need to find
+        shelter, learn to gather food, and possibly head back to the crazy city for your family. 
+44.     A war between humans and robots have left the land dissolute. A robot with A.I and with emotions, very much like that of human, awakes in an abandon laboratory. 
+	Lonely and scared, the robot sets out to find accompany. Goal of the game is to find out why was he made so differently, and decide whether he should gain acceptance amongst humans 
+	or to join the robotic force to wipe out the human race.
+45.     User laser pointer to get cat's attention and make it do simple task.
+46.     Soccer game with super powers.
+47.     Farmer fights radioactive birds that keeps eating the produce seeds.
+48.     Businessman finding the quickest route to his work. Jump on trains, driving ice-cream truck, hijack helicopters, bit like Grand Theft Auto but with time attack basis.
+49.     Play as a siren to lure helpless pirates to the watery grave. This needs mic to play! 
+50.     Get figurines from point a to point b, by placing correct sequence of gears that allow set of motions. Example, basic gear moves the figurine forward 3 steps.
