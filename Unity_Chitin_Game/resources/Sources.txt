@@ -1,0 +1,39 @@
+Sound Provided by:
+	<Sound>
+		http://www.orangefreesounds.com/
+		http://soundbible.com/1097-Slime-Splash.html
+
+Images provided by:
+	<LOGO>
+		http://game-icons.net/icons/carl-olsen/originals/svg/spider-face.svg
+
+	<GAME ICON & TEXTURE>
+		<Heart>
+			http://www.iconarchive.com/show/medical-icons-by-dapino/heart-beat-no-sh-icon.html
+		<Stomach>
+			https://www.iconfinder.com/icons/88326/beat_heart_icon
+		<Stamina>
+			https://www.kronos.ca/sites/default/files/images/industry/icons/industry-icon-energy.png
+		<Ant>
+			https://openclipart.org/image/2400px/svg_to_png/69/rejon-Ant-Icon.png
+	<TEXTURE>
+		http://img14.deviantart.net/18bc/i/2008/022/9/f/web_texture_by_babybird_stock.jpg		
+		https://wallpaperscraft.com/image/background_pattern_shadow_dark_texture_50624_1920x1213.jpg
+		https://s-media-cache-ak0.pinimg.com/originals/94/65/e4/9465e4bc068274e084d3036647aa5617.jpg
+		https://kristianterry.files.wordpress.com/2010/05/kristian-terry-texture-body.jpg
+
+Tutorials & Codes by: <sorry there was too many to record all of them>
+	https://www.unity.com
+	https://www.youtube.com/watch?v=lrk7GJUpKns&t=305s
+	https://www.youtube.com/watch?v=gXpi1czz5NA&t=772s
+	https://www.youtube.com/watch?v=UTLApMrHr5I
+	https://www.youtube.com/watch?v=EeWw0CjH9wg
+
+We also used alot of standard library codes:
+	* mostly for movements: first person view controllers
+	
+	
+	
+	
+		
+
